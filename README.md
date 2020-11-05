@@ -1,6 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelsilva2310" alt="samuelsilva2310" /></a> </p>
+<h1>HELLO WELCOME... HAVE FUN</h1>
 
 - 🔭 I’m currently working on [Discount_Notify](https://github.com/SamuelSilva2310/Dicount_Notify)
 
