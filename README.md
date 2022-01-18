@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsilva2310&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsilva2310" /> </p>
 
-- 🌱 I’m currently learning **Django, Docker.**
-
 - 👨‍💻 All of my projects are available at [http://samuelsilva.live/](http://samuelsilva.live/)
 
 - 📫 How to reach me **samuelsilva2310@gmail.com**
