@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Silva</h1>
-<h3 align="center">Student, Developer | Athlete. I am a hard working person, currently concluding my Programming course at Atec - Academia de Formação | Palmela, Portugal.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsilva2310&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsilva2310" /> </p>
 
